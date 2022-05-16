@@ -1,0 +1,122 @@
+
+body {
+    height: 100vh; /*Set webpage maximum height*/
+    margin: 0;    /*Set start reading 0,0*/
+    padding: 0;
+    background-color: white;  /*Set background color*/
+    display: flex;  /*Set centered elements*/
+    align-items: center;
+    justify-content: center;
+}
+
+/*ELEMENTS*/
+/*CLASSES*/
+/*ID*/
+#nav{
+    height: 3em;
+    width: 52em;
+    /* background-color: green;  */
+    border-radius: 1em;
+    display: flex;  /*Set centered elements*/
+    align-items:center;
+    justify-content:space-around;  
+}
+.button{
+    border: none;
+    color: green;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1em;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+/* .button::hover{
+    color: blue;
+    transition: 2s;
+} */
+
+#introSet{
+    height: 25em;
+    width: 52em;
+    /* background-color: blue;  */
+    border-radius: 1em;
+    display: flex;  /*Set centered elements*/
+    align-items: center;
+    justify-content: center;
+}
+
+#introFood{
+    height: 20em;
+    width: 26em;
+    /* background-color: yellow;  */
+    border-radius: 1em;
+    display: flex;  /*Set centered elements*/
+    align-items: center;
+    justify-content: center;
+}
+#introWords{
+    height: 16em;
+    width: 22em;
+    padding: 2em;  
+    border-radius: 1em;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    font-size: 1em;
+    text-size-adjust: justify;
+    color:black;
+    text-align: justify;
+}
+
+#contact{
+    height: 25em;
+    width: 52em;
+    /* background-color: blue;  */
+    border-radius: 1em;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+}
+
+#address{
+    height: 20em;
+    width: 26em;
+    border-radius: 1em;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+}
+#contactWords{
+    height: 16em;
+    width: 22em;
+    padding: 2em;  
+    border-radius: 1em;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2em;
+    text-size-adjust: justify;
+    color:black;
+    text-align: justify;
+}
+
+#map{
+    height: 20em;
+    width: 26em;
+    border-radius: 1em;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+}
+#mapG{
+    height: 20em;
+    width: 26em; 
+    border-radius: 1em;
+}
