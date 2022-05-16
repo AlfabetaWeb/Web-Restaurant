@@ -38,7 +38,7 @@ body {
     color: blue;
     transition: 2s;
 } */
-
+                  /**************************HOME*******************************/
 #introSet{
     height: 25em;
     width: 52em;
@@ -72,7 +72,7 @@ body {
     color:black;
     text-align: justify;
 }
-
+                   /*******************CONTACT*********************/
 #contact{
     height: 25em;
     width: 52em;
@@ -119,4 +119,67 @@ body {
     height: 20em;
     width: 26em; 
     border-radius: 1em;
+}
+                                  /*********************MENU*******************/
+#food{
+    height: 25em;
+    width: 60em;
+    background-color: blue; 
+    border-radius: 1em;
+    display: flex;  /*Set centered elements*/
+    align-items: center;
+    justify-content: center;
+
+}
+.options{
+
+}
+#daily{
+    height: 21em;
+    width: 16em;
+    /* background-color: red;  */
+    border-radius: 1em;
+    display: flex;  /*Set centered elements*/
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1em;
+    text-size-adjust: justify;
+    color:black;
+    text-align: justify;
+}
+#takeAway{
+    height: 21em;
+    width: 16em;
+    /* background-color: yellow;  */
+    border-radius: 1em;
+    display: flex;  /*Set centered elements*/
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1em;
+    text-size-adjust: justify;
+    color:black;
+    text-align: justify;
+
+}
+#delivery{
+    height: 21em;
+    width: 16em;
+    /* background-color: green;  */
+    border-radius: 1em;
+    display: flex;  /*Set centered elements*/
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1em;
+    text-size-adjust: justify;
+    color:black;
+    text-align: justify;
 }
