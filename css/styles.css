@@ -124,16 +124,16 @@ body {
 #food{
     height: 25em;
     width: 60em;
-    background-color: blue; 
+    /* background-color: blue;  */
     border-radius: 1em;
     display: flex;  /*Set centered elements*/
     align-items: center;
     justify-content: center;
 
 }
-.options{
+/* .options{
 
-}
+} */
 #daily{
     height: 21em;
     width: 16em;

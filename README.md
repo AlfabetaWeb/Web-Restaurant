@@ -1,8 +1,3 @@
 //*Projecto Web: CartaRestaurante*//
 ***
-#PrimerCrit
-
-Este proyecto es una propuesta de Website para un restaurante, incluyendo 3 páginas hipervinculadas (Home, Contacto, Carta)
-
-Debe usarse HTML5, CSS3, JavaScript y Bootstrap
-Debe ser 'responsive'
+Project created for the Bootcamp - Full Stack Developer at GeeksHubs Academy: Create a restaurant website with HTML5, CSS3, JavaScript and some Bootstrap elements. It must be responsive and include a minumum of 3 webpages (home, contact and menu)
